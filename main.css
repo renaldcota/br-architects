@@ -1,0 +1,22 @@
+
+body {
+	margin: 0;
+	font-family: "Lato", sans-serif;
+}
+ul {
+	list-style-type: none;
+}
+
+.first {
+	background-color: black;
+	height: 40px;
+	min-width: 100%;
+    position: fixed;
+    margin-bottom: 0;
+}
+
+letter-spacing: 4px;
+font-family: sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
